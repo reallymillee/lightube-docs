@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Lightube-docs'
-copyright = '2018, Millee'
-author = 'Millee'
+project = 'Lightube'
+copyright = '2018, Lightube'
+author = 'Millee, on behalf of Lightube'
 
 # The short X.Y version
 version = '0.1'
